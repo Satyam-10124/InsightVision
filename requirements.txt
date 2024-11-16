@@ -1,0 +1,7 @@
+opencv-python-headless
+torch
+torchvision
+numpy
+gradio>=3.6.1
+ultralytics
+Pillow
