@@ -1,6 +1,6 @@
 # InsightVision: Detect, Analyze, Summarize 🚀
 
-**InsightVision** is a powerful AI-powered application designed to detect objects within images, analyze the scene, and generate a summary with the object counts. Additionally, it provides a scene description based on the detected objects. This tool is perfect for understanding complex images and gaining valuable insights from them.
+**InsightVision** is a powerful AI-powered application designed to detect objects within images, analyze the scene, and generate a summary with object counts. Additionally, it provides a scene description based on the detected objects. This tool is perfect for understanding complex images and gaining valuable insights from them.
 
 ## 🔧 Built Using:
 
@@ -24,15 +24,21 @@
 3. **Scene Description**:
    - Automatically generates a scene description based on the detected objects, helping users understand the context of the image.
 
-4. **Animated Gradient Background**:
-   - Features an aesthetically pleasing animated gradient background that enhances the user experience.
+4. **Image Download Option**:
+   - After processing, users can download the annotated image with all detected objects marked.
 
-5. **Interactive Web Interface**:
+5. **Share Feature**:
+   - Users can generate a shareable link to share their results with others directly.
+
+6. **Interactive Web Interface**:
    - Easy-to-use web interface built with Gradio.
-   - Upload images, capture from webcam, or paste from clipboard to get results instantly.
+   - Upload images, capture from a webcam, or paste from the clipboard to get results instantly.
 
-6. **Object Count**:
+7. **Object Count**:
    - Displays the count of detected objects, making it easier to analyze object distribution within the image.
+
+8. **Animated Gradient Background**:
+   - Features an aesthetically pleasing animated gradient background that enhances the user experience.
 
 ## 📸 Image Upload Options:
 
@@ -41,8 +47,6 @@ InsightVision allows three ways to provide images:
 - **Upload from File**: You can upload an image directly from your device.
 - **Capture from Webcam**: Capture a live image using your device's webcam.
 - **Paste from Clipboard**: Paste an image directly from your clipboard into the app.
-
-These features make it easy for users to interact with the app and use it in various contexts, whether for a static image, a real-time capture, or pasting an image they've copied.
 
 ## 🚀 Deployment Guide:
 
